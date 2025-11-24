@@ -3,3 +3,6 @@ This project tackles the challenge of credit card fraud detection using the Kagg
 This project was completed as a part of MTH443: Statistical & AI Techniques in Data Mining.
 
 ## Guide
+1. The code folder contains reproducible code for all models tested and corresponding visualization generations.
+2. Data contains the data used for producing the results.
+3. All images used in the report are available in the Images folder.
